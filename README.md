@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning btech cse
 - 💞️ I’m looking to collaborate on software companies
 - 📫 How to reach me through email
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: gym rat
 
 <!---
 BarathVishwaSaravanan/BarathVishwaSaravanan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
